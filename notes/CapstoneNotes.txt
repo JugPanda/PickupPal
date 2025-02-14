@@ -1,0 +1,15 @@
+2/13/2025-2/14/2025
+# How to delete a license file from a github repo? (https://www.reddit.com/r/learnprogramming/comments/53uh7j/how_to_delete_a_license_file_from_a_github_repo/)
+# Best Camera Object Detection Software (https://www.reddit.com/r/homeassistant/comments/gs6oow/best_camera_object_detection_software/)
+# Saw TensorFlow from (https://www.reddit.com/r/homeassistant/comments/gs6oow/best_camera_object_detection_software/), then realized that this module was used in my AIScholars course
+# Inspirit AI Scholars Project: Object Detection for Self-Driving Cars (Fall 2023) (https://inspiritaischolars.teachable.com/courses/2322818/lectures/50027585)
+# TensorFlow in 100 Seconds (https://www.youtube.com/watch?v=i8NETqtGHms)
+# Is there a performance cost putting python imports inside functions? (https://stackoverflow.com/questions/32151193/is-there-a-performance-cost-putting-python-imports-inside-functions)
+# Warning while using tensorflow : tensorflow/core/util/port.cc:113] oneDNN custom operations are on (https://stackoverflow.com/questions/77921357/warning-while-using-tensorflow-tensorflow-core-util-port-cc113-onednn-custom)
+# TensorFlow (https://www.tensorflow.org/)
+# Intro to Machine Learning (ML Zero to Hero) (https://www.youtube.com/watch?v=KNAWp2S3w94&list=PLQY2H8rRoyvwWuPiWnuTDBHe7I0fMSsfO)
+# Basic Computer Vision with ML (ML Zero to Hero) (https://www.youtube.com/watch?v=bemDFpNooA8&list=PLQY2H8rRoyvwWuPiWnuTDBHe7I0fMSsfO)
+# can't import keras from tensorflow (https://stackoverflow.com/questions/62033587/cant-import-keras-from-tensorflow)
+# Conda Commands (https://docs.conda.io/projects/conda/en/4.6.0/commands/)
+# seaborn (https://seaborn.pydata.org/)
+# Pycharm does not show plot (https://stackoverflow.com/questions/24886625/pycharm-does-not-show-plot)
