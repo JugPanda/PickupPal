@@ -13,3 +13,16 @@
 # Conda Commands (https://docs.conda.io/projects/conda/en/4.6.0/commands/)
 # seaborn (https://seaborn.pydata.org/)
 # Pycharm does not show plot (https://stackoverflow.com/questions/24886625/pycharm-does-not-show-plot)
+
+2/14/2025
+# model.compile(optimizer="sgd",
+#               loss="mean_squared_error")
+# xs = np.array([-1.0, 0.0, 1.0, 2.0, 3.0, 4.0], dtype=float)
+# ys = np.array([-3.0, -1.0, 1.0, 3.0, 5.0, 7.0], dtype=float)
+# model.fit(xs, ys, epochs=500)
+# print(model.predict([10.0]))
+# classifications = model.predict(test_images)
+# predictions = model.predict(test_images)
+
+2/20/2025
+#
