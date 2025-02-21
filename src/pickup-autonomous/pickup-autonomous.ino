@@ -1,10 +1,14 @@
+// Libraries
+#include <Servo.h>
+
 // Define pin numbers
 const int trigPin = 9;
 const int echoPin = 10;
+const int servoPin = 2;
 
 // Define variables
-float duration;
-float distance;
+int duration;
+int distance;
 
 void setup() {
   // Set trigPin as Output and echoPin as Input
@@ -31,10 +35,17 @@ void loop() {
   distance = duration * 0.343 / 2;
 
   // Print distance to Serial Monitor
-  Serial.print("Distance: ");
-  Serial.println(distance);
+  // Serial.print("Distance: ");
+  // Serial.println(distance);
 
-  if (digitalRead(trigPin) == HIGH) {
-    Serial.print("signal");
+  if (distance < 30) {
+    Serial.println("Turn 180 degrees");
+    digitalWrite(servoPin, 255);
+    delay(2);
+    analogWrite(servoPin, 0);
+  }
+  else {
+    Serial.println("Drive forward");
+    analogWrite(servoPin, 255);
   }
 }
