@@ -29,3 +29,11 @@
 
 2/25/2025
 #
+
+2/28/2025
+# How To Control A Standard Servo With Raspberry Pi (https://www.youtube.com/watch?v=40tZQPd3z8g)
+# Help with gpiozero.AngularServo and certain servos (https://forums.raspberrypi.com/viewtopic.php?t=331790)
+# Build a robot buggy (https://projects.raspberrypi.org/en/projects/build-a-buggy/0)
+
+3/3/2025
+# How to Perform Object Detection with TensorFlow Lite on Raspberry Pi (https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588)
