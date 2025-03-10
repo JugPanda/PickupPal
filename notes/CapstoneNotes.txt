@@ -37,3 +37,23 @@
 
 3/3/2025
 # How to Perform Object Detection with TensorFlow Lite on Raspberry Pi (https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588)
+
+# L298N Dual H-Bridge Motor Controller (Raspberry Pi) (https://www.youtube.com/watch?v=bNOlimnWZJE)
+# Autofocus on a Raspberry Pi Camera? (https://www.youtube.com/watch?v=j2S8sZoH36Y)
+
+3/6/2025
+# Connect to Raspberry Pi from your Laptop using VNC Viewer (troubleshooting included) (https://www.youtube.com/watch?v=08ZwV9xofWw)
+# Raspberry Pi - Find IP Address and Connect with SSH from Windows 10 (https://www.youtube.com/watch?v=PUZN4XTUESo)
+# How to Enable and Use the On-Screen Keyboard on Raspberry Pi (https://fleetstack.io/blog/raspberry-pi-on-screen-keyboard-guide)
+# How to Connect a Raspberry Pi to a PC or Laptop Using USB (https://www.makeuseof.com/how-to-connect-raspberry-pi-to-laptop-or-pc-usb/)
+# Raspberry Pi Connect (Beta) (https://www.raspberrypi.com/documentation/services/connect.html)
+
+3/7/2025
+# Build a robot buggy (https://projects.raspberrypi.org/en/projects/build-a-buggy/2)
+# Basic usage of the Raspberry Pi GPIO pins (https://www.youtube.com/watch?v=U6N5pRDOrg4)
+# Raspberry Pi GPIO - Getting Started with gpiozero (https://www.youtube.com/watch?v=iL_oZGHLHvU)
+# Robot (https://gpiozero.readthedocs.io/en/latest/recipes.html#robot)
+
+
+
+https://github.com/veebch/ir-see
