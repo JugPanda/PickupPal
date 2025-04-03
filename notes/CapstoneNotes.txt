@@ -57,3 +57,33 @@
 
 
 https://github.com/veebch/ir-see
+
+3/18/2025
+# Raspberry Pi Remote Access - 3 Methods (https://www.youtube.com/watch?v=l4VDWhKsFgs)
+# How to Set Up a Raspberry Pi RealVNC Remote Access Connection (https://www.realvnc.com/en/blog/raspberry-pi-vnc/)
+# Access your Raspberry Pi device (https://www.raspberrypi.com/documentation/services/connect.html#access-your-raspberry-pi-device)
+# SSH timeout trouble (https://forums.raspberrypi.com/viewtopic.php?t=256770&sid=9a6bbbbfbd9f55334ef4974c24c0eb58)
+# 2.24. Robot (https://gpiozero.readthedocs.io/en/latest/recipes.html#robot)
+
+3/20/2025
+# The Ultimate Guide to using Motors in Robotics (including ROS, Raspberry Pi) (https://www.youtube.com/watch?v=-PCuDnpgiew&list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT&index=7)
+# How To Control A Motor With A Raspberry Pi And L298N | Tutorial (https://www.youtube.com/watch?v=iezVk6Fd0UA)
+# Raspberry Pi 4: The Ultimate Ultrasonic Sensor Guide (https://www.youtube.com/watch?v=_7drIUmC8Zo)
+# How to Use the HC-SR04 Ultrasonic Sensor with Raspberry Pi (Python Tutorial with Multi-Threading) (https://www.youtube.com/watch?v=JvQKZXCYMUM)
+# Name of Jumper Wire? (https://www.reddit.com/r/AskElectronics/comments/1et5jcd/name_of_jumper_wire/?rdt=43594)
+
+3/23/2025 - 3/24/2025
+# Master The Raspberry Pi Camera With This Simple Tutorial! (https://www.youtube.com/watch?v=VeWBYRpodnI)
+# Master Computer Vision With Raspberry Pi 5 In CVZone! (https://www.youtube.com/watch?v=sX8CO8MFCXw)
+# Left, right, forward, backward (https://projects.raspberrypi.org/en/projects/build-a-buggy/2)
+# Using a Raspberry Pi distance sensor (ultrasonic sensor HC-SR04) (https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/)
+# Raspberry Pi Pico Tutorial - HC-SR04 Ultrasonic Distance Sensor (https://www.youtube.com/watch?v=Xn_oAiH0ZsM)
+# HC-SR04 sensor's ECHO pin stuck on HIGH (https://raspberrypi.stackexchange.com/questions/140613/hc-sr04-sensors-echo-pin-stuck-on-high)
+
+3/28/2025
+# 2.20. Distance sensor (https://gpiozero.readthedocs.io/en/latest/recipes.html#distance-sensor)
+# DistanceSensor (HC-SR04) (https://gpiozero.readthedocs.io/en/stable/api_input.html#distancesensor-hc-sr04)
+# Master The Raspberry Pi Camera With This Simple Tutorial! (https://www.youtube.com/watch?v=VeWBYRpodnI)
+# How to Use the Coral USB Accelerator with the Raspberry Pi - Increase TensorFlow Lite FPS! (https://www.youtube.com/watch?v=qJMwNHQNOVU)
+# How To Run TensorFlow Lite on Raspberry Pi for Object Detection (https://www.youtube.com/watch?v=aimSGOAUI8Y)
+https://graphite.dev/guides/how-to-fix-git-authentication-failed-error
