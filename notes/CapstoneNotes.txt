@@ -86,4 +86,17 @@ https://github.com/veebch/ir-see
 # Master The Raspberry Pi Camera With This Simple Tutorial! (https://www.youtube.com/watch?v=VeWBYRpodnI)
 # How to Use the Coral USB Accelerator with the Raspberry Pi - Increase TensorFlow Lite FPS! (https://www.youtube.com/watch?v=qJMwNHQNOVU)
 # How To Run TensorFlow Lite on Raspberry Pi for Object Detection (https://www.youtube.com/watch?v=aimSGOAUI8Y)
-https://graphite.dev/guides/how-to-fix-git-authentication-failed-error
+# How to fix “git authentication failed” error (https://graphite.dev/guides/how-to-fix-git-authentication-failed-error)
+
+4/1/2025
+# About remote repositories (https://docs.github.com/en/get-started/git-basics/about-remote-repositories#cloning-with-https-urls)
+# bookworm update messed up libcamera on a pi3 b+ ? (https://forums.raspberrypi.com/viewtopic.php?t=376289&sid=aa462e96ceef7116135b3d45c595a813)
+# libcamera is missing in Ubuntu aarch 64, raspberry pi (https://askubuntu.com/questions/1438719/libcamera-is-missing-in-ubuntu-aarch-64-raspberry-pi)
+# [BUG] - Floating Point Exception #711 (https://github.com/raspberrypi/rpicam-apps/issues/711)
+# Build libcamera and rpicam-apps (https://www.raspberrypi.com/documentation/computers/camera_software.html#building-rpicam-apps)
+# Managing your personal access tokens (https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+
+4/2/2025
+# 2.24. Robot (https://gpiozero.readthedocs.io/en/latest/recipes.html#robot)
+# Raspberry Pi with DC Motors | Full Tutorial (https://www.youtube.com/watch?v=3FzD-QalrEU)
+# Program your robot (https://projects.raspberrypi.org/en/projects/build-a-buggy/4)

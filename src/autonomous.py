@@ -25,11 +25,15 @@ class PickupPal:
 
     def forward(self):
         self.left_motor.forward()
+        self.right_motor.forward()
         self.left_pwm.value = 0.5
+        self.right_pwm.value = 0.5
 
     def backward(self):
         self.left_motor.backward()
+        self.right_motor.backward()
         self.left_pwm.value = 0.5
+        self.right_pwm.value = 0.5
 
     def map_key_to_command(self, key):
         mapa = {curses.KEY_UP: self.forward, curses.KEY_DOWN: self.backward}
@@ -67,7 +71,7 @@ def main(time, window):
             gpio_pal.backward()
         else:
             gpio_pal.forward()
-        robot.backward()
+        gpio_pal.backward()
         sleep(1)
         time += 1
 
