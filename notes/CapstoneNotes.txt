@@ -100,3 +100,16 @@ https://github.com/veebch/ir-see
 # 2.24. Robot (https://gpiozero.readthedocs.io/en/latest/recipes.html#robot)
 # Raspberry Pi with DC Motors | Full Tutorial (https://www.youtube.com/watch?v=3FzD-QalrEU)
 # Program your robot (https://projects.raspberrypi.org/en/projects/build-a-buggy/4)
+
+4/3/2025
+# How To Run TensorFlow Lite on Raspberry Pi for Object Detection (https://www.youtube.com/watch?v=aimSGOAUI8Y)
+# How to Run TensorFlow Lite Models on Windows (https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Windows_TFLite_Guide.md#how-to-run-tensorflow-lite-models-on-windows)
+# How to Run TensorFlow Lite Object Detection Models on the Raspberry Pi (with Optional Coral USB Accelerator) (https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md#how-to-run-tensorflow-lite-object-detection-models-on-the-raspberry-pi-with-optional-coral-usb-accelerator)
+# How to Run YOLO Object Detection Models on the Raspberry Pi (https://www.youtube.com/watch?v=z70ZrSZNi-8&t)
+# Fix to illegal expression error (pip install ultralytics==8.3.70 torch==2.5.0 torchvision==0.20.0 --no-cache-dir)
+# How to Run YOLO Detection Models on the Raspberry Pi (https://www.ejtech.io/learn/yolo-on-raspberry-pi)
+# pip error on Ubuntu: externally-managed-environment × This environment is externally managed (https://askubuntu.com/questions/1465218/pip-error-on-ubuntu-externally-managed-environment-%C3%97-this-environment-is-extern)
+# Ultralytics YOLO11(https://docs.ultralytics.com/models/yolo11/)
+# 14.1.5. DistanceSensor (HC-SR04) (https://gpiozero.readthedocs.io/en/stable/api_input.html#distancesensor-hc-sr04)
+# Raspberry Pi Object Detection Tutorial (https://www.youtube.com/watch?v=NPXBRX7N3ec)
+# TensorFlow Lite Python image classification example with Raspberry Pi. (https://github.com/tensorflow/examples/tree/a9265a997d0410c431a292e3553646b3b655ea1f/lite/examples/image_classification/raspberry_pi#tensorflow-lite-python-image-classification-example-with-raspberry-pi)
