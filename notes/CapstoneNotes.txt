@@ -113,3 +113,16 @@ https://github.com/veebch/ir-see
 # 14.1.5. DistanceSensor (HC-SR04) (https://gpiozero.readthedocs.io/en/stable/api_input.html#distancesensor-hc-sr04)
 # Raspberry Pi Object Detection Tutorial (https://www.youtube.com/watch?v=NPXBRX7N3ec)
 # TensorFlow Lite Python image classification example with Raspberry Pi. (https://github.com/tensorflow/examples/tree/a9265a997d0410c431a292e3553646b3b655ea1f/lite/examples/image_classification/raspberry_pi#tensorflow-lite-python-image-classification-example-with-raspberry-pi)
+
+4/4/2025
+# YOLO Object and Animal Recognition on the Raspberry Pi 5 | Beginner Python Guide (https://www.youtube.com/watch?v=XKIm_R_rIeQ&t)
+# Getting Started with YOLO Object and Animal Recognition on the Raspberry PiGetting Started with YOLO Object and Animal Recognition on the Raspberry Pi (https://core-electronics.com.au/guides/raspberry-pi/getting-started-with-yolo-object-and-animal-recognition-on-the-raspberry-pi/)
+# Tensorflow exit code -4 (https://www.reddit.com/r/learnpython/comments/1bdvroy/tensorflow_exit_code_4/)
+# Export to NCNN format no longer works with Ultralytics 8.3.71 and torch 2.6.0+cpu on Raspberry Pi 4 #19091 (https://github.com/ultralytics/ultralytics/issues/19091#issuecomment-2715144995)
+
+4/6/2025
+# Using a Raspberry Pi distance sensor (ultrasonic sensor HC-SR04) (https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/)
+# Best Raspberry Pi 5 Cases (3D Printed + More) (https://www.youtube.com/watch?v=gER-yNyh_iU)
+# Fractal, take my money! (Pi 5 Cases) (https://www.youtube.com/watch?v=rV8v40MKFik)
+# pi 5 case (https://www.thingiverse.com/search?q=pi+5+case&page=1)
+# Raspberry Pi 5 Case (https://www.printables.com/model/1005333-raspberry-pi-5-case)
