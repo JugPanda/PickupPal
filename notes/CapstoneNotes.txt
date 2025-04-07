@@ -137,3 +137,6 @@ https://github.com/veebch/ir-see
 # [Solved] Portable Pi5 power supply? For different projects. (https://forums.raspberrypi.com/viewtopic.php?t=366413&sid=0404f03c5497eeb05a35fc4610f501dc)
 # Running Raspberry Pi 5 on a powerbank or mini ups (https://forums.raspberrypi.com/viewtopic.php?t=358980&sid=513539308c0f254179c5a662ec40795c)
 # Raspberry Pi 5: The Ultimate Ultrasonic Sensor Guide (https://www.youtube.com/watch?v=U1M7W6M0ZrU)
+# Ultrasonic sensor heating up (https://forum.arduino.cc/t/ultrasonic-sensor-heating-up/562911)
+# Ultrasonic sensors keep frying themselves (https://forum.arduino.cc/t/ultrasonic-sensors-keep-frying-themselves/1256052)
+# Beware of this breadboard power supply: YwRobot Power MB V2 (https://www.reddit.com/r/arduino/comments/3ti1me/beware_of_this_breadboard_power_supply_ywrobot/)
