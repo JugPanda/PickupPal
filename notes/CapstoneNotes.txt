@@ -140,3 +140,5 @@ https://github.com/veebch/ir-see
 # Ultrasonic sensor heating up (https://forum.arduino.cc/t/ultrasonic-sensor-heating-up/562911)
 # Ultrasonic sensors keep frying themselves (https://forum.arduino.cc/t/ultrasonic-sensors-keep-frying-themselves/1256052)
 # Beware of this breadboard power supply: YwRobot Power MB V2 (https://www.reddit.com/r/arduino/comments/3ti1me/beware_of_this_breadboard_power_supply_ywrobot/)
+# 2.20. Distance sensor (https://gpiozero.readthedocs.io/en/latest/recipes.html#distance-sensor)
+# Raspberry Pi - Configure a Raspberry Pi with GitHub repository (https://www.youtube.com/watch?v=9CULlsc5BBU)
