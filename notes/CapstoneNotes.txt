@@ -126,3 +126,4 @@ https://github.com/veebch/ir-see
 # Fractal, take my money! (Pi 5 Cases) (https://www.youtube.com/watch?v=rV8v40MKFik)
 # pi 5 case (https://www.thingiverse.com/search?q=pi+5+case&page=1)
 # Raspberry Pi 5 Case (https://www.printables.com/model/1005333-raspberry-pi-5-case)
+# https://www.printables.com/model/774000-raspberry-pi-5-case-alternate-fan-hole/files
