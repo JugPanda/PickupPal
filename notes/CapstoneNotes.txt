@@ -120,10 +120,12 @@ https://github.com/veebch/ir-see
 # Tensorflow exit code -4 (https://www.reddit.com/r/learnpython/comments/1bdvroy/tensorflow_exit_code_4/)
 # Export to NCNN format no longer works with Ultralytics 8.3.71 and torch 2.6.0+cpu on Raspberry Pi 4 #19091 (https://github.com/ultralytics/ultralytics/issues/19091#issuecomment-2715144995)
 
-4/6/2025
+4/6/2025 - 4/7/2025
 # Using a Raspberry Pi distance sensor (ultrasonic sensor HC-SR04) (https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/)
 # Best Raspberry Pi 5 Cases (3D Printed + More) (https://www.youtube.com/watch?v=gER-yNyh_iU)
 # Fractal, take my money! (Pi 5 Cases) (https://www.youtube.com/watch?v=rV8v40MKFik)
 # pi 5 case (https://www.thingiverse.com/search?q=pi+5+case&page=1)
 # Raspberry Pi 5 Case (https://www.printables.com/model/1005333-raspberry-pi-5-case)
-# https://www.printables.com/model/774000-raspberry-pi-5-case-alternate-fan-hole/files
+# Pi 5 Case (https://www.printables.com/model/774000-raspberry-pi-5-case-alternate-fan-hole/files)
+# How to fix AttributeError: partially initialized module? [duplicate] (https://stackoverflow.com/questions/59762996/how-to-fix-attributeerror-partially-initialized-module)
+# To fix the ncnn error, I had to change model to yolov8.pt instead of the ncnn yolo11 model
