@@ -142,3 +142,18 @@ https://github.com/veebch/ir-see
 # Beware of this breadboard power supply: YwRobot Power MB V2 (https://www.reddit.com/r/arduino/comments/3ti1me/beware_of_this_breadboard_power_supply_ywrobot/)
 # 2.20. Distance sensor (https://gpiozero.readthedocs.io/en/latest/recipes.html#distance-sensor)
 # Raspberry Pi - Configure a Raspberry Pi with GitHub repository (https://www.youtube.com/watch?v=9CULlsc5BBU)
+
+4/8/2025
+# easy-to-use (browser-based) design tool to draw circuits (https://forums.raspberrypi.com/viewtopic.php?t=326238)
+# Coming Soon: Beetl, The Poop-Picking Robot (https://www.petguide.com/blog/dog/coming-soon-beetl-the-poop-picking-robot/)
+
+4/9/2025
+# Distance measurement system for autonomous vehicles using stereo camera (https://www.sciencedirect.com/science/article/pii/S2590005620300011)
+# YOLO Object Detection with distance measurement and audio feedback (https://stackoverflow.com/questions/59589766/yolo-object-detection-with-distance-measurement-and-audio-feedback)
+
+4/11/2025
+# How to Connect to a Raspberry Pi Directly with an Ethernet Cable (https://www.youtube.com/watch?v=5DCPDQnRXm8)
+# Headless Raspberry Pi Setup (https://hackernoon.com/raspberry-pi-headless-install-462ccabd75d0)
+
+4/13/2025
+# The voltage issue was that the ribbon cable connected to the Raspberry Pi was reversed

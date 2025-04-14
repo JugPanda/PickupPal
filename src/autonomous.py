@@ -8,18 +8,20 @@ import cv2
 class PickupPal:
     def __init__(self):
         # Left motor
-        self.left_motor = Motor(forward=6, backward=5)
+        self.left_motor = Motor(forward=5, backward=6)
         # self.left_pwm = PWMOutputDevice(17)
         # self.left_pwm.value = 0
 
         # Right motor
-        self.right_motor = Motor(forward=16, backward=18)
+        self.right_motor = Motor(forward=21, backward=20)
         # self.right_pwm = PWMOutputDevice(26)
         # self.right_pwm.value = 0
+        # self.left_motor.stop()
+        # self.right_motor.stop()
 
         # Set up the camera with Picam
         self.picam = Picamera2()
-        self.picam.preview_configuration.main.size = (1280, 1280)
+        self.picam.preview_configuration.main.size = (1000, 1000)
         self.picam.preview_configuration.main.format = "RGB888"
         self.picam.preview_configuration.align()
         self.picam.configure("preview")
@@ -27,7 +29,7 @@ class PickupPal:
 
         # Load YOLO11
         self.model = YOLO("yolo11n.pt")
-        self.objects_to_detect = [0, 73]
+        self.objects_to_detect = [0, 2]
 
         # Ultrasonic distance sensor (HC-SR04)
         # self.sensor = DistanceSensor(echo=23, trigger=24)
@@ -65,51 +67,56 @@ class PickupPal:
         # print("Distance: ", round(self.distance, 2), " cm")
 
     def main(self, time):
-        self.stop()
-        while self.i < time:
-            # Capture a frame from the camera
-            frame = self.picam.capture_array()
+        try:
+            while self.i < time:
+                # Capture a frame from the camera
+                frame = self.picam.capture_array()
 
-            # Run YOLO model on the captured frame and store the results
-            results = self.model(frame, imgsz=640)
+                # Run YOLO model on the captured frame and store the results
+                results = self.model(frame, imgsz=640)
 
-            # self.read_distance()
+                detected_objects = results[0].boxes.cls.tolist()
 
-            # if self.distance < 50:
-            #    self.left()
-            # else:
-            #    self.forward()
+                object_found = False
+                for obj_id in self.objects_to_detect:
+                    if obj_id in detected_objects:
+                        object_found = True
+                        print(f"Detected object with ID {obj_id}!")
 
-            detected_objects = results[0].boxes.cls.tolist()
-            object_found = False
+                if object_found:
+                    print("drive")
+                    self.forward()
+                else:
+                    print("stop")
+                    self.stop()
 
-            for obj_id in self.objects_to_detect:
-                if obj_id in detected_objects:
-                    object_found = True
-                    print(f"Detected object with ID {obj_id}!")
+                # Output the visual detection data, we will draw this on our camera preview window
+                annotated_frame = results[0].plot()
 
-                    if object_found:
-                        self.forward()
-                    else:
-                        self.stop()
+                # Display the resulting frame
+                cv2.imshow("Object Detection", annotated_frame)
 
-            # Output the visual detection data, we will draw this on our camera preview window
-            annotated_frame = results[0].plot()
+                # Exit the program if q is pressed
+                if cv2.waitKey(1) == ord("q"):
+                    break
 
-            # Display the resulting frame
-            cv2.imshow("Object Detection", annotated_frame)
+                # self.read_distance()
 
-            # Exit the program if q is pressed
-            if cv2.waitKey(1) == ord("q"):
-                break
+                # if self.distance < 50:
+                #    self.left()
+                # else:
+                #    self.forward()
 
-            sleep(0.1)
-            self.i += 0.1
-        self.stop()
+                sleep(0.1)
+                self.i += 0.1
 
-        # Close all windows
-        cv2.destroyAllWindows()
+            # Close all windows
+            cv2.destroyAllWindows()
+            self.stop()
+        except KeyboardInterrupt:
+            self.stop()
 
 
 gpio_pal = PickupPal()
-gpio_pal.main(2)
+gpio_pal.main(3)
+
