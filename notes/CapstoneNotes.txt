@@ -156,4 +156,9 @@ https://github.com/veebch/ir-see
 # Headless Raspberry Pi Setup (https://hackernoon.com/raspberry-pi-headless-install-462ccabd75d0)
 
 4/13/2025
+# Problem with DC motor! (https://forums.raspberrypi.com/viewtopic.php?t=210936)
+# What does negative voltage mean on a multimeter? (https://www.quora.com/What-does-negative-voltage-mean-on-a-multimeter)
+# L298N Dual H-Bridge Motor Controller (Raspberry Pi) (https://www.youtube.com/watch?v=bNOlimnWZJE)
 # The voltage issue was that the ribbon cable connected to the Raspberry Pi was reversed
+# How to Make a Circuit Board (Beginner's Guide) (https://www.youtube.com/watch?v=la5BafeXsUI)
+# Choosing motors (https://forums.raspberrypi.com/viewtopic.php?t=234304)
