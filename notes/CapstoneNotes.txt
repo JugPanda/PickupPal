@@ -120,6 +120,9 @@ https://github.com/veebch/ir-see
 # Tensorflow exit code -4 (https://www.reddit.com/r/learnpython/comments/1bdvroy/tensorflow_exit_code_4/)
 # Export to NCNN format no longer works with Ultralytics 8.3.71 and torch 2.6.0+cpu on Raspberry Pi 4 #19091 (https://github.com/ultralytics/ultralytics/issues/19091#issuecomment-2715144995)
 
+4/5/2025
+# I can not connect mi Pi through vnc (https://forums.raspberrypi.com/viewtopic.php?t=262430&sid=b22310143ffe9bfef0103d86d06cb6e6)
+
 4/6/2025 - 4/7/2025
 # Using a Raspberry Pi distance sensor (ultrasonic sensor HC-SR04) (https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/)
 # Best Raspberry Pi 5 Cases (3D Printed + More) (https://www.youtube.com/watch?v=gER-yNyh_iU)
@@ -154,6 +157,8 @@ https://github.com/veebch/ir-see
 4/11/2025
 # How to Connect to a Raspberry Pi Directly with an Ethernet Cable (https://www.youtube.com/watch?v=5DCPDQnRXm8)
 # Headless Raspberry Pi Setup (https://hackernoon.com/raspberry-pi-headless-install-462ccabd75d0)
+# I can't get motors to turn with Raspberry pi (https://robotics.stackexchange.com/questions/8421/i-cant-get-motors-to-turn-with-raspberry-pi)
+# [OTHER]raspberrypi picamera2 error #1009 (https://github.com/raspberrypi/picamera2/issues/1009)
 
 4/13/2025
 # Problem with DC motor! (https://forums.raspberrypi.com/viewtopic.php?t=210936)
@@ -164,4 +169,15 @@ https://github.com/veebch/ir-see
 # Choosing motors (https://forums.raspberrypi.com/viewtopic.php?t=234304)
 
 4/15/2025
+# Motor position (https://forums.raspberrypi.com/viewtopic.php?t=137968)
+# Argoverse Dataset (https://docs.ultralytics.com/datasets/detect/argoverse/)
+# YOLO World Object Detection without Training (Zero Shot Object Detection (https://www.youtube.com/watch?v=p9Hz48EaARQ)
 # Quick Start Guide: Raspberry Pi with Ultralytics YOLO11 (https://docs.ultralytics.com/guides/raspberry-pi/)
+# How to run YOLO-World for real-time custom object detection without any training or datasets (https://www.youtube.com/watch?v=7EmfDY2Ooqo)
+# YOLO-World Model (https://docs.ultralytics.com/models/yolo-world/)
+
+4/16/2025
+# Model Training with Ultralytics YOLO (https://docs.ultralytics.com/modes/train/)
+
+4/24/2025
+# How YOLO Object Detection Works (https://www.youtube.com/watch?v=svn9-xV7wjk&t)
