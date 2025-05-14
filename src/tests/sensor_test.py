@@ -1,10 +1,11 @@
 from gpiozero import Robot, DistanceSensor
+from time import sleep
 
 sensor = DistanceSensor(echo=23, trigger=24)
 
 def read_distance():
-	distance = sensor.value * 100
-	print("Distance: " + "{:1.2f}".format(distance) + " cm")
+	distance = sensor.distance * 100
+	print("Distance: ", round(distance, 2), " cm")
 	
 while True:
 	read_distance()
