@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['3x1', '4x1', '4x2']
+
+roboflow:
+  workspace: tkl-hmvhf
+  project: lego-brick-recognition-9qaxc
+  version: 23
+  license: Private
+  url: https://universe.roboflow.com/tkl-hmvhf/lego-brick-recognition-9qaxc/dataset/23
